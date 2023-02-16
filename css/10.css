@@ -1,0 +1,200 @@
+.elementor-136
+  .elementor-element.elementor-element-842b0ca
+  > .elementor-container {
+  min-height: 10vh;
+}
+.elementor-136
+  .elementor-element.elementor-element-842b0ca.ob-is-breaking-bad
+  > .elementor-container
+  > .elementor-row,
+.elementor-136
+  .elementor-element.elementor-element-842b0ca.ob-is-breaking-bad
+  > .elementor-container {
+  justify-content: flex-start !important;
+  flex-direction: row;
+}
+.elementor-136
+  .elementor-element.elementor-element-842b0ca.ob-is-breaking-bad.ob-bb-inner
+  > .elementor-container
+  > .elementor-row,
+.elementor-136
+  .elementor-element.elementor-element-842b0ca.ob-is-breaking-bad.ob-bb-inner
+  > .elementor-container {
+  justify-content: flex-start !important;
+  flex-direction: row;
+}
+.elementor-136
+  .elementor-element.elementor-element-842b0ca.ob-is-breaking-bad.ob-is-glider
+  > .elementor-container.swiper-container-vertical
+  > .elementor-row,
+.elementor-136
+  .elementor-element.elementor-element-842b0ca.ob-is-breaking-bad.ob-is-glider
+  > .elementor-container.swiper-container-vertical {
+  flex-direction: column;
+}
+.elementor-136
+  .elementor-element.elementor-element-842b0ca.ob-is-breaking-bad.ob-is-glider.ob-bb-inner
+  > .elementor-container.swiper-container-vertical
+  > .elementor-row,
+.elementor-136
+  .elementor-element.elementor-element-842b0ca.ob-is-breaking-bad.ob-is-glider.ob-bb-inner
+  > .elementor-container.swiper-container-vertical {
+  flex-direction: column;
+}
+.elementor-136
+  .elementor-element.elementor-element-842b0ca.ob-is-breaking-bad.ob-bb-inner {
+  width: 100%;
+  flex: unset;
+  align-self: inherit;
+}
+.elementor-136
+  .elementor-element.elementor-element-842b0ca:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-136
+  .elementor-element.elementor-element-842b0ca
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-color: #3535354a;
+}
+.elementor-136
+  .elementor-element.elementor-element-842b0ca
+  > .elementor-background-overlay {
+  opacity: 1;
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-136 .elementor-element.elementor-element-842b0ca {
+  border-style: solid;
+  border-width: 0 0 1px;
+  border-color: #ffffff2b;
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+  margin-top: 0;
+  margin-bottom: -11%;
+  padding: 0 0 12px;
+  z-index: 15;
+}
+.elementor-136 .elementor-element.elementor-element-ee481bb.elementor-column {
+  width: 100%;
+  align-self: inherit;
+  cursor: default;
+}
+.elementor-136
+  .elementor-element.elementor-element-ee481bb
+  > .elementor-element-populated {
+  margin: 10px 0 0;
+  --e-column-margin-right: 0;
+  --e-column-margin-left: 0;
+  padding: 0;
+}
+.elementor-136
+  .elementor-element.elementor-element-0b8fcac.ob-is-breaking-bad
+  > .elementor-container
+  > .elementor-row,
+.elementor-136
+  .elementor-element.elementor-element-0b8fcac.ob-is-breaking-bad
+  > .elementor-container {
+  justify-content: flex-start !important;
+  flex-direction: row;
+}
+.elementor-136
+  .elementor-element.elementor-element-0b8fcac.ob-is-breaking-bad.ob-bb-inner
+  > .elementor-container
+  > .elementor-row,
+.elementor-136
+  .elementor-element.elementor-element-0b8fcac.ob-is-breaking-bad.ob-bb-inner
+  > .elementor-container {
+  justify-content: flex-start !important;
+  flex-direction: row;
+}
+.elementor-136
+  .elementor-element.elementor-element-0b8fcac.ob-is-breaking-bad.ob-is-glider
+  > .elementor-container.swiper-container-vertical
+  > .elementor-row,
+.elementor-136
+  .elementor-element.elementor-element-0b8fcac.ob-is-breaking-bad.ob-is-glider
+  > .elementor-container.swiper-container-vertical {
+  flex-direction: column;
+}
+.elementor-136
+  .elementor-element.elementor-element-0b8fcac.ob-is-breaking-bad.ob-is-glider.ob-bb-inner
+  > .elementor-container.swiper-container-vertical
+  > .elementor-row,
+.elementor-136
+  .elementor-element.elementor-element-0b8fcac.ob-is-breaking-bad.ob-is-glider.ob-bb-inner
+  > .elementor-container.swiper-container-vertical {
+  flex-direction: column;
+}
+.elementor-136
+  .elementor-element.elementor-element-0b8fcac.ob-is-breaking-bad.ob-bb-inner {
+  width: 100%;
+  flex: unset;
+  align-self: inherit;
+}
+.elementor-136 .elementor-element.elementor-element-61e3ab0.elementor-column {
+  align-self: inherit;
+  cursor: default;
+}
+.elementor-136
+  .elementor-element.elementor-element-61e3ab0
+  > .elementor-element-populated {
+  padding: 0;
+}
+.elementor-136 .elementor-element.elementor-element-35b0b8b {
+  text-align: left;
+}
+.elementor-136 .elementor-element.elementor-element-35b0b8b img {
+  width: 30%;
+}
+.elementor-136
+  .elementor-element.elementor-element-35b0b8b
+  > .elementor-widget-container {
+  margin: -30px 0;
+}
+.elementor-136 .elementor-element.elementor-element-11acee8.elementor-column {
+  align-self: inherit;
+  cursor: default;
+}
+.elementor-136
+  .elementor-element.elementor-element-11acee8
+  > .elementor-element-populated {
+  padding: 0;
+}
+.elementor-136 .elementor-element.elementor-element-b30c6d2 .elementor-button {
+  fill: #0b0b0b;
+  color: #0b0b0b;
+  background-color: #f3c600;
+  border-radius: 0;
+}
+@media (max-width: 767px) {
+  .elementor-136 .elementor-element.elementor-element-842b0ca {
+    margin-top: 0;
+    margin-bottom: -26%;
+    padding: 0 10px;
+  }
+  .elementor-bc-flex-widget
+    .elementor-136
+    .elementor-element.elementor-element-61e3ab0.elementor-column
+    .elementor-widget-wrap {
+    align-items: center;
+  }
+  .elementor-136
+    .elementor-element.elementor-element-61e3ab0.elementor-column.elementor-element[data-element_type="column"]
+    > .elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+  }
+  .elementor-136 .elementor-element.elementor-element-61e3ab0.elementor-column {
+    width: 40%;
+  }
+  .elementor-136 .elementor-element.elementor-element-35b0b8b img {
+    width: 85%;
+  }
+  .elementor-136 .elementor-element.elementor-element-11acee8.elementor-column {
+    width: 60%;
+  }
+}
+.elementor-136 .elementor-element.elementor-element-842b0ca {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
