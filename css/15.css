@@ -753,3 +753,6 @@
   right: 10px;
   left: unset;
 }
+#wa-widget-send-button {
+  display: none;
+}
