@@ -67,7 +67,7 @@
 .elementor-10
   .elementor-element.elementor-element-5f1e0e73
   > .elementor-background-overlay {
-  background-image: url(https://adymize.com/wp-content/uploads/2022/07/DSC00746-1-copy.png);
+  background-image: url(../img/dakshImg.png);
   background-position: -13% 100%;
   background-repeat: no-repeat;
   background-size: 32% auto;
@@ -500,7 +500,7 @@
 .elementor-10
   .elementor-element.elementor-element-30fdba43
   > .elementor-container {
-  min-height: 83vh;
+  min-height: 50vh;
 }
 .elementor-10 .elementor-element.elementor-element-30fdba43 {
   overflow: hidden;
@@ -2928,8 +2928,8 @@ body
 .elementor-10
   .elementor-element.elementor-element-40a7972.ob-is-breaking-bad
   > .elementor-container {
-  justify-content: flex-start !important;
-  flex-direction: row;
+  justify-content: center !important;
+  /* flex-direction: row; */
 }
 .elementor-10
   .elementor-element.elementor-element-40a7972.ob-is-breaking-bad.ob-bb-inner
@@ -3092,7 +3092,7 @@ body
   padding-bottom: 7px;
 }
 .elementor-10 .elementor-element.elementor-element-6b7d978b.elementor-column {
-  width: 33.33%;
+  width: auto;
   align-self: inherit;
   cursor: default;
 }
