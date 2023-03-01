@@ -702,6 +702,8 @@
 .elementor-widget-reviews .swiper-slide,
 .elementor-widget-testimonial-carousel .swiper-slide {
   height: auto;
+  display: flex;
+  align-items: center;
 }
 .elementor-widget-reviews.elementor-pagination-type-bullets .swiper-container,
 .elementor-widget-reviews.elementor-pagination-type-fraction .swiper-container,
@@ -753,6 +755,7 @@
   right: 10px;
   left: unset;
 }
+
 #wa-widget-send-button {
   display: none;
 }
